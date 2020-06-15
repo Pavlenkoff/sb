@@ -32,7 +32,7 @@ public class Person {
      */
     public boolean divorce() {
 
-        return false;
+        return true;
     }
 
 
